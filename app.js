@@ -15,7 +15,7 @@ let computerchoise = () => {
 }
 
 let gamedwar = () =>{
-    mas.innerText = "Game was Dwar";
+    mas.innerText = "Game was Draw";
     mas.style.backgroundColor = "blue";
 }
 
